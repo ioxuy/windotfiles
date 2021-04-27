@@ -1,0 +1,13 @@
+New：PPC+PPC64插件
+New：加入MIPS+PPC+PPC64插件
+
+特别说明：
+该绿色版基于网络泄露版本制作，仅重新KeyGen以及添加几个必要文件，其它无任何修改。
+
+使用说明：
+1.运行IDAProHelper.exe进行绿化。
+2.如果需要Python插件支持，请自行安装目录下的python-3.8.6-amd64.exe。
+
+P.Y.G Team
+https://www.chinapyg.com
+2020.12.16
